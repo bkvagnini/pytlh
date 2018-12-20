@@ -1,0 +1,13 @@
+/*Style Sheet for PythonTLH */
+
+.event {
+font-weight: bold;
+color: red;
+}
+
+.headings {
+	color: blue;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, 'Times New Roman', serif;
+}

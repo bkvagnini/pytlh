@@ -1,5 +1,9 @@
 /*Style Sheet for PythonTLH */
 
+body {
+margin: 20px;
+}
+
 .event {
 font-weight: bold;
 color: red;
